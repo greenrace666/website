@@ -32,7 +32,7 @@ const About = () => {
         </div>
 
         <div className="mt-12">
-          <h3 className="text-xl font-semibold mb-4">Professional Philosophy</h3>
+          <h3 className="text-xl font-semibold mb-4"></h3>
           <p className="text-gray-600 leading-relaxed">
             My interests focuses on leveraging computational
             methods to understand biomolecule design and function , which includes but not limited to Protein Design , Drug Design and ML methods.
