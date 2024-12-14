@@ -40,7 +40,7 @@ const Contact = () => {
             <div className="mt-8">
               <h4 className="font-semibold mb-2">Connect</h4>
               <p className="text-gray-600">
-                Send over a Hi
+                Drop a Hi 👋
               </p>
             </div>
           </div>
