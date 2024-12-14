@@ -1,6 +1,6 @@
 import React from 'react';
 import { FileDown, Award, Book } from 'lucide-react';
-
+import pdf from "/src/cv.pdf"
 const Resume = () => {
   const certifications = [
     {
@@ -21,7 +21,7 @@ const Resume = () => {
             <div className="flex items-center justify-between mb-6">
               <h3 className="text-xl font-semibold">Download Resume</h3>
               <a
-                href="/cv.pdf"
+                href={pdf}
                 className="inline-flex items-center px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors"
               >
                 <FileDown className="mr-2" size={20} />
