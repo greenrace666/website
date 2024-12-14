@@ -23,7 +23,7 @@ const Hero = () => {
           </div>
           <div className="md:w-1/2 flex justify-center">
             <img
-              src="/nikil.jpeg"
+              src="https://github.com/greenrace66/website/blob/main/nikil.jpeg"
               alt="Nikil Krishna"
               className="rounded-2xl shadow-2xl w-80 h-80 object-cover"
             />
