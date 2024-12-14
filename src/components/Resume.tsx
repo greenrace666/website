@@ -4,14 +4,10 @@ import { FileDown, Award, Book } from 'lucide-react';
 const Resume = () => {
   const certifications = [
     {
-      title: 'Deep Learning Specialization',
-      issuer: 'Coursera',
-      date: '2023'
-    },
-    {
-      title: 'Computational Biology Certificate',
-      issuer: 'edX',
-      date: '2023'
+      title: 'Schrodinger Drug Discovery Hackathon',
+      detail: 'To design a insilico denovo structure-based drug molecule aimed at executing the dual inhibition of critical protein kinases A and B in Mycobacterium tuberculosis by genetic algorithm and combinatorial chemistry.',
+      issuer: 'Schrodinger',
+      date: 'March 2024'
     }
   ];
 
@@ -25,7 +21,7 @@ const Resume = () => {
             <div className="flex items-center justify-between mb-6">
               <h3 className="text-xl font-semibold">Download Resume</h3>
               <a
-                href="/path-to-resume.pdf"
+                href="/cv.pdf"
                 className="inline-flex items-center px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors"
               >
                 <FileDown className="mr-2" size={20} />
@@ -33,8 +29,8 @@ const Resume = () => {
               </a>
             </div>
             <p className="text-gray-600">
-              Comprehensive overview of my academic background, research experience, 
-              and technical skills in computational biology and protein design.
+              Overview of my academic background, research experience, 
+              and technical skills
             </p>
           </div>
 
@@ -49,7 +45,10 @@ const Resume = () => {
                   <Book className="w-5 h-5 text-blue-600 mr-3 mt-1" />
                   <div>
                     <h4 className="font-semibold">{cert.title}</h4>
-                    <p className="text-gray-600">{cert.issuer} • {cert.date}</p>
+                    <p className="text-gray-600">
+                    {cert.detail}
+                    </p>
+                    <p className="font-semibold">{cert.issuer} • {cert.date}</p>
                   </div>
                 </div>
               ))}

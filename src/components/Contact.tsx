@@ -25,11 +25,11 @@ const Contact = () => {
             <div className="space-y-4">
               <div className="flex items-center">
                 <Mail className="w-6 h-6 text-blue-600 mr-3" />
-                <span>academic.email@sastra.edu</span>
+                <span>126010091@sastra.ac.in</span>
               </div>
               <div className="flex items-center">
-                <Phone className="w-6 h-6 text-blue-600 mr-3" />
-                <span>Available during office hours</span>
+                <Mail className="w-6 h-6 text-blue-600 mr-3" />
+                <span>Available</span>
               </div>
               <div className="flex items-center">
                 <MapPin className="w-6 h-6 text-blue-600 mr-3" />
@@ -38,9 +38,9 @@ const Contact = () => {
             </div>
 
             <div className="mt-8">
-              <h4 className="font-semibold mb-2">Response Time</h4>
+              <h4 className="font-semibold mb-2">Connect</h4>
               <p className="text-gray-600">
-                I typically respond to emails within 24-48 hours during weekdays.
+                Send over a Hi
               </p>
             </div>
           </div>

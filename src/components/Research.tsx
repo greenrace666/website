@@ -14,9 +14,7 @@ const Research = () => {
               <h3 className="text-xl font-semibold">Current Focus</h3>
             </div>
             <p className="text-gray-600">
-              Exploring the intersection of machine learning and protein design,
-              with a particular emphasis on developing novel computational methods
-              for predicting protein-protein interactions.
+              Exploring the use of machine learning in protein design and understanding its mechanism.
             </p>
           </div>
 
@@ -26,9 +24,7 @@ const Research = () => {
               <h3 className="text-xl font-semibold">Research Goals</h3>
             </div>
             <p className="text-gray-600">
-              Advancing the field of computational biology through innovative
-              approaches to protein design and structure prediction, ultimately
-              contributing to therapeutic developments.
+              To learn more about the respective field and implement applications.
             </p>
           </div>
         </div>
@@ -40,12 +36,12 @@ const Research = () => {
           </div>
           <div className="space-y-6">
             <div className="border-l-4 border-blue-600 pl-4">
-              <h4 className="font-semibold">Computational Approaches in Protein Design</h4>
-              <p className="text-gray-600">Undergraduate Research Symposium, 2023</p>
+              <h4 className="font-semibold">Coming Soon (Maybe?)</h4>
+              <p className="text-gray-600"></p>
             </div>
             <div className="border-l-4 border-blue-600 pl-4">
-              <h4 className="font-semibold">Machine Learning in Structural Biology</h4>
-              <p className="text-gray-600">Department Research Seminar, 2022</p>
+              <h4 className="font-semibold"></h4>
+              <p className="text-gray-600"></p>
             </div>
           </div>
         </div>

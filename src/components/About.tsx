@@ -15,8 +15,8 @@ const About = () => {
             <div className="space-y-4">
               <EducationCard
                 institution="SASTRA Deemed University"
-                degree="B.Tech in Biotechnology"
-                period="2020 - Present"
+                degree="B.Tech Biotechnology"
+                period="2022 - Present"
               />
             </div>
           </div>
@@ -34,10 +34,8 @@ const About = () => {
         <div className="mt-12">
           <h3 className="text-xl font-semibold mb-4">Professional Philosophy</h3>
           <p className="text-gray-600 leading-relaxed">
-            Dedicated to advancing the field of computational biology through innovative research
-            and interdisciplinary collaboration. My work focuses on leveraging computational
-            methods to understand protein design and function, with the goal of contributing
-            to breakthrough discoveries in biotechnology and medicine.
+            My interests focuses on leveraging computational
+            methods to understand biomolecule design and function , which includes but not limited to Protein Design , Drug Design and ML methods.
           </p>
         </div>
       </div>

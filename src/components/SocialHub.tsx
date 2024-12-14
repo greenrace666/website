@@ -6,26 +6,20 @@ const SocialHub = () => {
     {
       platform: 'GitHub',
       icon: Github,
-      username: '@nikilkrishna',
-      link: 'https://github.com/nikilkrishna'
+      username: '@greenrace666',
+      link: 'https://github.com/greenrace666'
     },
     {
       platform: 'LinkedIn',
       icon: Linkedin,
-      username: 'Nikil Krishna',
-      link: 'https://linkedin.com/in/nikilkrishna'
+      username: 'nikil-krishna-0b2a5b1bb',
+      link: 'https://www.linkedin.com/in/nikil-krishna-0b2a5b1bb/'
     },
     {
       platform: 'Twitter',
       icon: Twitter,
-      username: '@nikilkrishna_bio',
-      link: 'https://twitter.com/nikilkrishna_bio'
-    },
-    {
-      platform: 'Research Gate',
-      icon: BookOpen,
-      username: 'Nikil Krishna',
-      link: 'https://researchgate.net/profile/nikilkrishna'
+      username: '@bionikil',
+      link: 'https://x.com/bionikil'
     }
   ];
 
