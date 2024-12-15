@@ -15,7 +15,7 @@ const Blog = () => {
           <h2 className="text-3xl font-bold">Blog</h2>
           <a
             href=""
-            target="_blank"
+            target="https://nikilblogs.wordpress.com/"
             rel="noopener noreferrer"
             className="inline-flex items-center text-blue-600 hover:text-blue-700"
           >
