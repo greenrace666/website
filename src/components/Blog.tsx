@@ -4,18 +4,18 @@ import { BookOpen, ArrowUpRight } from 'lucide-react';
 const Blog = () => {
   const blogPosts = [
     {
-      title: "My Journey into Computational Biology",
-      excerpt: "Exploring the fascinating intersection of computer science and biology...",
-      date: "March 15, 2024",
-      readTime: "5 min read",
-      link: "https://your-blog-url.com/journey-computational-biology"
+      title: "My First blog",
+      excerpt: "Just an intro",
+      date: "December 15, 2024",
+      readTime: "1 min read",
+      link: "https://nikilblogs.wordpress.com/2024/12/15/hello-world/"
     },
     {
-      title: "Understanding Protein Design Through ML",
-      excerpt: "Deep diving into how machine learning is revolutionizing protein design...",
-      date: "March 10, 2024",
-      readTime: "7 min read",
-      link: "https://your-blog-url.com/protein-design-ml"
+      title: "All Atom Structure Prediction in Minutes",
+      excerpt: "Using Chai-1 in H100 GPU's",
+      date: "December 16, 2024",
+      readTime: "5 min read",
+      link: "https://nikilblogs.wordpress.com/2024/12/16/protein-structure/"
     }
   ];
 

@@ -5,7 +5,7 @@ import About from './components/About';
 import Projects from './components/Projects';
 import Research from './components/Research';
 import ResearchDetails from './components/ResearchDetails';
-import Blog from './components/Blog2';
+import Blog from './components/Blog';
 import Resume from './components/Resume';
 import SocialHub from './components/SocialHub';
 import Contact from './components/Contact';
