@@ -8,14 +8,14 @@ const Blog = () => {
       excerpt: "Just an intro",
       date: "December 15, 2024",
       readTime: "1 min read",
-      link: "https://nikilblogs.wordpress.com/2024/12/15/hello-world/"
+      link: "https://nikilblogs.netlify.app/blog/my-first-blog/"
     },
     {
       title: "All Atom Structure Prediction in Minutes",
       excerpt: "Using Chai-1 in H100 GPU's",
       date: "December 16, 2024",
       readTime: "5 min read",
-      link: "https://nikilblogs.wordpress.com/2024/12/16/protein-structure/"
+      link: "https://nikilblogs.netlify.app/blog/accurate/"
     }
   ];
 
