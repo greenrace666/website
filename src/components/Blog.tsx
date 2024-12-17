@@ -25,7 +25,7 @@ const Blog = () => {
         <div className="flex justify-between items-center mb-12">
           <h2 className="text-3xl font-bold">Blog</h2>
           <a
-            href="https://your-blog-url.com"
+            href="https://nikilblogs.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center text-blue-600 hover:text-blue-700"
