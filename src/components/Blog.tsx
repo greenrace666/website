@@ -8,7 +8,7 @@ const Blog = () => {
       excerpt: "Just an intro",
       date: "December 15, 2024",
       readTime: "1 min read",
-      link: "https://nikilblogs.netlify.app/blog/my-first-blog/"
+      link: "https://nikilblogs.netlify.app/blog/myfirstblog/"
     },
     {
       title: "All Atom Structure Prediction in Minutes",
