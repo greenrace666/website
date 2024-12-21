@@ -31,13 +31,13 @@ const Header = () => {
               </a>
             ))}
             <div className="flex items-center space-x-4">
-              <a href="https://github.com" className="text-gray-600 hover:text-gray-900">
+              <a href="https://github.com/greenrace666" className="text-gray-600 hover:text-gray-900">
                 <Github size={20} />
               </a>
-              <a href="https://linkedin.com" className="text-gray-600 hover:text-gray-900">
+              <a href="https://in.linkedin.com/in/nikil-krishna-0b2a5b1bb" className="text-gray-600 hover:text-gray-900">
                 <Linkedin size={20} />
               </a>
-              <a href="https://twitter.com" className="text-gray-600 hover:text-gray-900">
+              <a href="https://twitter.com/bionikil" className="text-gray-600 hover:text-gray-900">
                 <Twitter size={20} />
               </a>
             </div>
